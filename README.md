@@ -28,11 +28,11 @@ The Traffic Collision Fatalities dataset provides a summary of all traffic relat
 [('Pedestrian Collisions', 355), ('SMV Other', 83), ('Turning Movement', 55), ('Cyclist Collisions', 30), ('Approaching', 30), ('Angle', 22), ('Rear End', 18), ('SMV Unattended Vehicle', 6), ('Other', 6), ('Sideswipe', 5)]
 
 ### Problem Case 3: Analysis of dataset using scattermapbox and pandas in python to get 
-                1. Street
-                2. District
-                3. Impact Type
-                4. Light
-                5. Injury Type
-                6. Fatal
+1. Street
+2. District
+3. Impact Type
+4. Light
+5. Injury Type
+6. Fatal
 
-<img src="https://github.com/patelnisarg61/Toronto-Fatal-Collision-Analysis/blob/master/Fatal-Collision-Plot.PNG" width="800" height="500" style="vertical-align:center;">
+<img src="https://github.com/patelnisarg61/Toronto-Fatal-Collisions-Analysis/blob/master/Fatal-Collision-Plot.PNG" width="800" height="500" style="vertical-align:center;">
