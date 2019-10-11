@@ -33,6 +33,7 @@ The Traffic Collision Fatalities dataset provides a summary of all traffic relat
 3. Impact Type
 4. Light
 5. Injury Type
-6. Fatal
+6. Date
+
 
 <img src="https://github.com/patelnisarg61/Toronto-Fatal-Collisions-Analysis/blob/master/Fatal-Collision-Plot.PNG" width="800" height="450" class="center">
